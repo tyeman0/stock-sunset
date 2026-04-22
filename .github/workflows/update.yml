@@ -1,0 +1,32 @@
+name: Daily Stock Data Update
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # 매일 한국 시간 00:00 (UTC 15:00)
+  workflow_dispatch: # 수동으로도 실행 가능하게 설정
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run update script
+        run: node update.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.json
+          git commit -m "chore: daily stock data update [$(date +'%Y-%m-%d')]" || echo "No changes to commit"
+          git push

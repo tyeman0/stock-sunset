@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sunset Stock Analysis - KOSPI & KOSDAQ</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sunset Stock Market</h1>
+            <p class="subtitle">2026년 4월 현재, 대한민국 증시 시가총액 TOP 10 기업 분석</p>
+        </header>
+
+        <main class="dashboard">
+            <section class="market-card" id="kospi-section">
+                <h2>KOSPI <span>유가증권시장</span></h2>
+                <div class="stock-list" id="kospi-list">
+                    <!-- JS will populate this -->
+                </div>
+            </section>
+
+            <section class="market-card" id="kosdaq-section">
+                <h2>KOSDAQ <span>코스닥시장</span></h2>
+                <div class="stock-list" id="kosdaq-list">
+                    <!-- JS will populate this -->
+                </div>
+            </section>
+        </main>
+
+        <div id="detail-modal" class="modal">
+            <div class="modal-content" id="modal-body">
+                <!-- Content will be injected by JS -->
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 Sunset Financial Analytics. 데이터는 실시간 순위 기준입니다.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
