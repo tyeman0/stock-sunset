@@ -1,0 +1,26 @@
+{
+  "name": "stock-sunset",
+  "version": "1.0.0",
+  "description": "Sunset themed stock market dashboard with real-time updates",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyeman0/stock-sunset.git"
+  },
+  "keywords": [
+    "stock",
+    "sunset",
+    "dashboard",
+    "korean-stock"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyeman0/stock-sunset/issues"
+  },
+  "homepage": "https://tyeman0.github.io/stock-sunset/"
+}
