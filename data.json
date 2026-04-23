@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-22",
+  "lastUpdated": "2026-04-23",
   "kospi": [
     {
       "rank": 1,
       "name": "삼성전자",
       "code": "005930",
-      "price": "217,500",
-      "change": "-0.68%",
+      "price": "224,500",
+      "change": "+3.22%",
       "tag": "반도체/IT",
       "performance": [
         {
@@ -45,8 +45,8 @@
       "rank": 2,
       "name": "SK하이닉스",
       "code": "000660",
-      "price": "1,223,000",
-      "change": "-0.08%",
+      "price": "1,225,000",
+      "change": "+0.16%",
       "tag": "반도체/메모리",
       "performance": [
         {
@@ -85,8 +85,8 @@
       "rank": 3,
       "name": "삼성전자우",
       "code": "005935",
-      "price": "151,300",
-      "change": "+0.6%",
+      "price": "156,200",
+      "change": "+3.24%",
       "tag": "우선주/반도체",
       "performance": [
         {
@@ -125,8 +125,8 @@
       "rank": 4,
       "name": "LG에너지솔루션",
       "code": "373220",
-      "price": "484,500",
-      "change": "+1.36%",
+      "price": "466,500",
+      "change": "-3.72%",
       "tag": "2차전지/배터리",
       "performance": [
         {
@@ -165,8 +165,8 @@
       "rank": 5,
       "name": "현대차",
       "code": "005380",
-      "price": "541,000",
-      "change": "-0.92%",
+      "price": "532,000",
+      "change": "-1.66%",
       "tag": "자동차/모빌리티",
       "performance": [
         {
@@ -205,8 +205,8 @@
       "rank": 6,
       "name": "SK스퀘어",
       "code": "402340",
-      "price": "720,000",
-      "change": "+0.28%",
+      "price": "728,000",
+      "change": "+1.11%",
       "tag": "지주사/투자",
       "performance": [
         {
@@ -245,8 +245,8 @@
       "rank": 7,
       "name": "두산에너빌리티",
       "code": "034020",
-      "price": "115,900",
-      "change": "+0.17%",
+      "price": "122,600",
+      "change": "+5.78%",
       "tag": "에너지/원자력",
       "performance": [
         {
@@ -285,8 +285,8 @@
       "rank": 8,
       "name": "한화에어로스페이스",
       "code": "012450",
-      "price": "1,416,000",
-      "change": "+1.8%",
+      "price": "1,425,000",
+      "change": "+0.64%",
       "tag": "방산/항공우주",
       "performance": [
         {
@@ -325,8 +325,8 @@
       "rank": 9,
       "name": "삼성바이오로직스",
       "code": "207940",
-      "price": "1,561,000",
-      "change": "-1.7%",
+      "price": "1,514,000",
+      "change": "-3.01%",
       "tag": "바이오/의약품",
       "performance": [
         {
@@ -366,7 +366,7 @@
       "name": "HD현대중공업",
       "code": "329180",
       "price": "641,000",
-      "change": "+11.28%",
+      "change": "0%",
       "tag": "조선/기계",
       "performance": [
         {
@@ -407,8 +407,8 @@
       "rank": 1,
       "name": "에코프로",
       "code": "086520",
-      "price": "164,300",
-      "change": "+0.37%",
+      "price": "157,200",
+      "change": "-4.32%",
       "tag": "2차전지/소재",
       "performance": [
         {
@@ -447,8 +447,8 @@
       "rank": 2,
       "name": "에코프로비엠",
       "code": "247540",
-      "price": "218,000",
-      "change": "-1.13%",
+      "price": "205,500",
+      "change": "-5.73%",
       "tag": "2차전지/부품",
       "performance": [
         {
@@ -487,8 +487,8 @@
       "rank": 3,
       "name": "알테오젠",
       "code": "196170",
-      "price": "359,500",
-      "change": "-2.57%",
+      "price": "357,500",
+      "change": "-0.56%",
       "tag": "바이오/플랫폼",
       "performance": [
         {
@@ -527,8 +527,8 @@
       "rank": 4,
       "name": "레인보우로보틱스",
       "code": "277810",
-      "price": "596,000",
-      "change": "-0.83%",
+      "price": "600,000",
+      "change": "+0.67%",
       "tag": "로봇/AI",
       "performance": [
         {
@@ -565,50 +565,10 @@
     },
     {
       "rank": 5,
-      "name": "삼천당제약",
-      "code": "000250",
-      "price": "403,000",
-      "change": "-15.25%",
-      "tag": "제약/바이오",
-      "performance": [
-        {
-          "label": "매출액",
-          "value": "최신 집계 중",
-          "change": "N/A"
-        },
-        {
-          "label": "영업이익",
-          "value": "최신 집계 중",
-          "change": "N/A"
-        },
-        {
-          "label": "당기순이익",
-          "value": "최신 집계 중",
-          "change": "N/A"
-        },
-        {
-          "label": "영업이익률",
-          "value": "N/A",
-          "change": "N/A"
-        },
-        {
-          "label": "ROE",
-          "value": "N/A",
-          "change": "N/A"
-        },
-        {
-          "label": "부채비율",
-          "value": "N/A",
-          "change": "N/A"
-        }
-      ]
-    },
-    {
-      "rank": 6,
       "name": "리노공업",
       "code": "058470",
-      "price": "120,200",
-      "change": "+1.43%",
+      "price": "123,300",
+      "change": "+2.58%",
       "tag": "반도체/검사",
       "performance": [
         {
@@ -644,12 +604,52 @@
       ]
     },
     {
+      "rank": 6,
+      "name": "삼천당제약",
+      "code": "000250",
+      "price": "380,000",
+      "change": "-5.71%",
+      "tag": "제약/바이오",
+      "performance": [
+        {
+          "label": "매출액",
+          "value": "최신 집계 중",
+          "change": "N/A"
+        },
+        {
+          "label": "영업이익",
+          "value": "최신 집계 중",
+          "change": "N/A"
+        },
+        {
+          "label": "당기순이익",
+          "value": "최신 집계 중",
+          "change": "N/A"
+        },
+        {
+          "label": "영업이익률",
+          "value": "N/A",
+          "change": "N/A"
+        },
+        {
+          "label": "ROE",
+          "value": "N/A",
+          "change": "N/A"
+        },
+        {
+          "label": "부채비율",
+          "value": "N/A",
+          "change": "N/A"
+        }
+      ]
+    },
+    {
       "rank": 7,
-      "name": "코오롱티슈진",
-      "code": "950160",
-      "price": "99,500",
-      "change": "-2.16%",
-      "tag": "바이오/신약",
+      "name": "에이비엘바이오",
+      "code": "298380",
+      "price": "153,500",
+      "change": "+2.06%",
+      "tag": "바이오/면역",
       "performance": [
         {
           "label": "매출액",
@@ -685,11 +685,11 @@
     },
     {
       "rank": 8,
-      "name": "에이비엘바이오",
-      "code": "298380",
-      "price": "150,400",
-      "change": "-3.53%",
-      "tag": "바이오/면역",
+      "name": "코오롱티슈진",
+      "code": "950160",
+      "price": "100,100",
+      "change": "+0.6%",
+      "tag": "바이오/신약",
       "performance": [
         {
           "label": "매출액",
@@ -727,8 +727,8 @@
       "rank": 9,
       "name": "HLB",
       "code": "028300",
-      "price": "60,600",
-      "change": "-2.88%",
+      "price": "59,900",
+      "change": "-1.16%",
       "tag": "제약/바이오",
       "performance": [
         {
@@ -767,8 +767,8 @@
       "rank": 10,
       "name": "리가켐바이오",
       "code": "141080",
-      "price": "188,300",
-      "change": "-2.99%",
+      "price": "201,500",
+      "change": "+7.01%",
       "tag": "바이오/항암제",
       "performance": [
         {
