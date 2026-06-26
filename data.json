@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "kospi": [
     {
       "rank": 1,
       "name": "삼성전자",
       "code": "005930",
-      "price": "358,500",
-      "change": "+5.29%",
+      "price": "339,500",
+      "change": "-5.3%",
       "tag": "반도체/IT",
       "performance": [
         {
@@ -45,8 +45,8 @@
       "rank": 2,
       "name": "SK하이닉스",
       "code": "000660",
-      "price": "2,917,000",
-      "change": "+13.06%",
+      "price": "2,673,000",
+      "change": "-8.36%",
       "tag": "반도체/메모리",
       "performance": [
         {
@@ -85,8 +85,8 @@
       "rank": 3,
       "name": "SK스퀘어",
       "code": "402340",
-      "price": "1,899,000",
-      "change": "+5.56%",
+      "price": "1,720,000",
+      "change": "-9.43%",
       "tag": "지주사/투자",
       "performance": [
         {
@@ -125,8 +125,8 @@
       "rank": 4,
       "name": "삼성전자우",
       "code": "005935",
-      "price": "235,000",
-      "change": "+10.07%",
+      "price": "220,500",
+      "change": "-6.17%",
       "tag": "우선주/반도체",
       "performance": [
         {
@@ -165,8 +165,8 @@
       "rank": 5,
       "name": "삼성전기",
       "code": "009150",
-      "price": "1,997,000",
-      "change": "+1.68%",
+      "price": "1,993,000",
+      "change": "-0.2%",
       "tag": "기타",
       "performance": [
         {
@@ -205,8 +205,8 @@
       "rank": 6,
       "name": "현대차",
       "code": "005380",
-      "price": "503,000",
-      "change": "-1.18%",
+      "price": "480,500",
+      "change": "-4.47%",
       "tag": "자동차/모빌리티",
       "performance": [
         {
@@ -245,8 +245,8 @@
       "rank": 7,
       "name": "삼성생명",
       "code": "032830",
-      "price": "447,000",
-      "change": "+3.23%",
+      "price": "432,500",
+      "change": "-3.24%",
       "tag": "기타",
       "performance": [
         {
@@ -285,8 +285,8 @@
       "rank": 8,
       "name": "삼성물산",
       "code": "028260",
-      "price": "519,000",
-      "change": "+7.79%",
+      "price": "494,500",
+      "change": "-4.72%",
       "tag": "기타",
       "performance": [
         {
@@ -325,8 +325,8 @@
       "rank": 9,
       "name": "LG에너지솔루션",
       "code": "373220",
-      "price": "352,000",
-      "change": "-3.69%",
+      "price": "331,500",
+      "change": "-5.82%",
       "tag": "2차전지/배터리",
       "performance": [
         {
@@ -365,8 +365,8 @@
       "rank": 10,
       "name": "삼성바이오로직스",
       "code": "207940",
-      "price": "1,386,000",
-      "change": "+0.07%",
+      "price": "1,343,000",
+      "change": "-3.1%",
       "tag": "바이오/의약품",
       "performance": [
         {
@@ -407,8 +407,8 @@
       "rank": 1,
       "name": "알테오젠",
       "code": "196170",
-      "price": "375,000",
-      "change": "+0.94%",
+      "price": "343,500",
+      "change": "-8.4%",
       "tag": "바이오/플랫폼",
       "performance": [
         {
@@ -447,8 +447,8 @@
       "rank": 2,
       "name": "에코프로비엠",
       "code": "247540",
-      "price": "144,000",
-      "change": "-5.57%",
+      "price": "133,700",
+      "change": "-7.15%",
       "tag": "2차전지/부품",
       "performance": [
         {
@@ -487,8 +487,8 @@
       "rank": 3,
       "name": "에코프로",
       "code": "086520",
-      "price": "102,000",
-      "change": "-5.29%",
+      "price": "95,400",
+      "change": "-6.47%",
       "tag": "2차전지/소재",
       "performance": [
         {
@@ -527,8 +527,8 @@
       "rank": 4,
       "name": "레인보우로보틱스",
       "code": "277810",
-      "price": "516,000",
-      "change": "+0.19%",
+      "price": "480,000",
+      "change": "-6.98%",
       "tag": "로봇/AI",
       "performance": [
         {
@@ -567,8 +567,8 @@
       "rank": 5,
       "name": "코오롱티슈진",
       "code": "950160",
-      "price": "100,300",
-      "change": "-0.79%",
+      "price": "95,300",
+      "change": "-4.99%",
       "tag": "바이오/신약",
       "performance": [
         {
@@ -605,10 +605,10 @@
     },
     {
       "rank": 6,
-      "name": "주성엔지니어링",
-      "code": "036930",
-      "price": "166,900",
-      "change": "-8.5%",
+      "name": "원익IPS",
+      "code": "240810",
+      "price": "163,800",
+      "change": "+5.88%",
       "tag": "기타",
       "performance": [
         {
@@ -645,10 +645,10 @@
     },
     {
       "rank": 7,
-      "name": "원익IPS",
-      "code": "240810",
-      "price": "154,700",
-      "change": "+2.72%",
+      "name": "주성엔지니어링",
+      "code": "036930",
+      "price": "165,600",
+      "change": "-0.78%",
       "tag": "기타",
       "performance": [
         {
@@ -687,8 +687,8 @@
       "rank": 8,
       "name": "리노공업",
       "code": "058470",
-      "price": "88,700",
-      "change": "+4.11%",
+      "price": "84,300",
+      "change": "-4.96%",
       "tag": "반도체/검사",
       "performance": [
         {
@@ -727,8 +727,8 @@
       "rank": 9,
       "name": "HLB",
       "code": "028300",
-      "price": "49,000",
-      "change": "-2.58%",
+      "price": "47,700",
+      "change": "-2.65%",
       "tag": "제약/바이오",
       "performance": [
         {
@@ -767,8 +767,8 @@
       "rank": 10,
       "name": "이오테크닉스",
       "code": "039030",
-      "price": "477,000",
-      "change": "-1.95%",
+      "price": "485,000",
+      "change": "+1.68%",
       "tag": "기타",
       "performance": [
         {
